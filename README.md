@@ -1,2 +1,2 @@
-# mynewrepository2017
-my new repository to learn github
+# mynewrepository2017 is now an hour old
+my new repository to learn github. Let us see how it goes.
